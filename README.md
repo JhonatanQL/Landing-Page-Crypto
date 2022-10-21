@@ -7,4 +7,4 @@
 <li> [![mobile.png](https://i.postimg.cc/GpYkLsnR/mobile.png)](https://postimg.cc/wtqtFMB4) </li>
 </ul>
 <h2>Web Site</h2>
-<a href="https://jhonatanql.github.io/Landing-Page-Cryptocurrency/">Cryptocurrency</a>
+<a href="https://jhonatanql.github.io/Landing-Page-Crypto/">Crypto</a>
