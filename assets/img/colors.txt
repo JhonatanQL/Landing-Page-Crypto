@@ -1,0 +1,6 @@
+$first-color: #6610f2;
+$first-color-light: #6f42c1;
+$second-color: #007bff;
+$container-color: #09185e;
+$title-color: #ffffff;
+$text-color: #a2bbd2;
