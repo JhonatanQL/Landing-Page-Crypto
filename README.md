@@ -4,7 +4,7 @@
 <a href="https://jhonatanql.github.io/Landing-Page-Crypto/">Crypto</a>
 <h2>Mockups</h2>
 <ul>
-<li> [![Desktop](https://i.postimg.cc/mk646kDz/desktop.png)](https://postimg.cc/jnNBDsyt) </li>
-<li> [![Desktop-Active](https://i.postimg.cc/mZSy1Mz2/desktop-active.png)](https://postimg.cc/z3Vg9yF9) </li>
-<li> [![mobile.png](https://i.postimg.cc/GpYkLsnR/mobile.png)](https://postimg.cc/wtqtFMB4) </li>
+<li> [![Desktop](https://github.com/JhonatanQL/Landing-Page-Crypto/blob/master/desktop.png) </li>
+<li> [![Desktop-Active](https://github.com/JhonatanQL/Landing-Page-Crypto/blob/master/desktop-active.png) </li>
+<li> [![mobile.png](https://github.com/JhonatanQL/Landing-Page-Crypto/blob/master/mobile.png) </li>
 </ul>
